@@ -1,2 +1,2 @@
 # crackingTheCodingInterview
- Contains all Questions from the Book "Cracking the Coding Interview" in Python
+ Contains Solution of  Questions from the Book "Cracking the Coding Interview" in Python
